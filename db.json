@@ -2,15 +2,18 @@
   "services": [
     {
       "id": 1,
-      "title": "Librărie și magazin!"
+      "title": "Librărie și magazin!",
+      "description": "O colecție impresionantă de cărți!"
     },
     {
       "id": 2,
-      "title": "Mic dejun gratuit!"
+      "title": "Mic dejun gratuit!",
+      "description": "Mic dejun diversificat."
     },
     {
       "id": 3,
-      "title": "Loc de joacă!"
+      "title": "Loc de joacă!",
+      "description": "Loc de joacă supravegheat."
     }
   ]
 }
