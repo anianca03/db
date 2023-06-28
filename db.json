@@ -1,7 +1,40 @@
 {
   "services": [
-    { "id": 1, "title": "Librărie și magazin!" },
-    { "id": 2, "title": "Mic dejun gratuit!" },
-    { "id": 3, "title": "Loc de joacă!" }
+    {
+    id: 1,
+    title: "Librărie și magazin!",
+    description: "O colecție impresionantă de cărți!",
+    type: "plata"
+  },
+  {
+    id: 2,
+    title: "Mic dejun gratuit!",
+    description: "Mic dejun diversificat.",
+    type: "gratuit"
+  },
+  {
+    id: 3,
+    title: "Loc de joacă!",
+    description: "Loc de joacă supravegheat.",
+    type: "gratuit"
+  },
+  {
+    id: 4,
+    title: "Spa și fitness",
+    description: "Tratamente și sauna. Instructor personal.",
+    type: "gratuit"
+  },
+  {
+    id: 5,
+    title: "Cosmetică și coafor",
+    description: "Tratamente cosmetice și coafor",
+    type: "plata"
+  },
+  {
+    id: 6,
+    title: "Sala conferințe",
+    description: "Sală amenajată și dotată pentru conferințe",
+    type: "plata"
+  }
   ]
 }
