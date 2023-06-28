@@ -14,6 +14,11 @@
       "id": 3,
       "title": "Loc de joacă!",
       "description": "Loc de joacă supravegheat."
+    },
+    {
+      "id": 4,
+      "title": "Spa și fitness",
+      "description": "Tratamente și sauna. Instructor personal."
     }
   ]
 }
