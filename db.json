@@ -24,6 +24,11 @@
       "id": 5,
       "title": "Cosmetică și coafor",
       "description": "Tratamente cosmetice și coafor."
+    },
+    {
+      "id": 6,
+      "title": "Sala conferințe",
+      "description": "Sală amenajată și dotată pentru conferințe."
     }
   ]
 }
