@@ -19,6 +19,11 @@
       "id": 4,
       "title": "Spa și fitness",
       "description": "Tratamente și sauna. Instructor personal."
+    },
+    {
+      "id": 5,
+      "title": "Cosmetică și coafor",
+      "description": "Tratamente cosmetice și coafor."
     }
   ]
 }
